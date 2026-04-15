@@ -10,6 +10,8 @@ tools:
 
 # Attachment-Based Parenting Skill
 
+> Note: This skill provides education about attachment-based parenting principles. It is not a substitute for professional therapy, especially for parents processing their own attachment history or childhood trauma.
+
 > "What is most important is not what happens to us, but how we make sense of what happens to us. It is our understanding that shapes who we become." — Daniel Siegel
 
 ## Overview

@@ -241,7 +241,7 @@ Emotion Coaching is powerful but not always the right tool:
 
 2. **You are flooded** — If your own emotions are at a 7+ out of 10, you cannot coach. Stabilize yourself first: "I need a minute to calm down, and then we'll talk."
 
-3. **The child is manipulating through emotion** — A child who has learned to cry on demand to get candy. The test: is this a genuine emotion or a strategy? If strategic, calmly hold the limit without the coaching steps.
+3. **The child appears to be using emotion strategically** — Default assumption: the emotion is genuine. Even if a child has learned that crying gets results, the underlying feeling is real. Hold the limit while still acknowledging feelings: "I can see you really want that candy. The answer is still no, AND I understand you're disappointed." If a pattern of strategic behavior emerges over time, consider CPS (lagging skills analysis) rather than labeling behavior as manipulation.
 
 4. **Time pressure / wrong setting** — "We need to leave for school in 2 minutes" is not the time for deep emotion coaching. Acknowledge briefly: "I can see you're upset. We need to go now, AND we will talk about this in the car."
 

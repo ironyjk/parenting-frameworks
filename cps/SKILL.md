@@ -297,7 +297,7 @@ When analyzing a situation through CPS:
 
 ## References
 
-- Ross W. Greene, *The Explosive Child* (6th ed., 2014)
+- Ross W. Greene, *The Explosive Child* (6th ed., 2021)
 - Ross W. Greene, *Lost at School* (2008)
 - Ross W. Greene, *Raising Human Beings* (2016)
 - Lives in the Balance: https://www.livesinthebalance.org
