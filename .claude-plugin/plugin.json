@@ -1,0 +1,32 @@
+{
+  "name": "parenting-frameworks",
+  "description": "Parenting & Education Framework Guide — meta-router for 16 frameworks (Positive Discipline, PET, CPS, Emotion Coaching, Triple P, Attachment Parenting, SDT, Retrieval Practice, Growth Mindset, UbD, PBL, Montessori, DAP, UDL, Formative Assessment, Differentiated Instruction). Invoke /parenting.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Choi Hee Chul",
+    "email": "ironyjk@gmail.com"
+  },
+  "homepage": "https://github.com/ironyjk/parenting-frameworks",
+  "repository": "https://github.com/ironyjk/parenting-frameworks",
+  "license": "MIT",
+  "keywords": ["parenting", "education", "child-development", "montessori", "pbl", "korean"],
+  "skills": [
+    "./attachment-parenting",
+    "./cps",
+    "./dap",
+    "./differentiated-instruction",
+    "./emotion-coaching",
+    "./formative-assessment",
+    "./growth-mindset",
+    "./montessori",
+    "./parenting",
+    "./pbl",
+    "./pet",
+    "./positive-discipline",
+    "./retrieval-practice",
+    "./sdt-parenting",
+    "./triple-p",
+    "./ubd",
+    "./udl"
+  ]
+}
