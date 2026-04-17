@@ -48,6 +48,8 @@ The system will:
 
 ## Installation
 
+> 💡 **짧은 이름**: [래퍼 설정](https://github.com/ironyjk/claude-frameworks-marketplace#짧은-이름으로-쓰기-optional) 후 `/parenting`으로 호출 가능
+
 ### Claude Code (Recommended)
 
 Clone this repository into your Claude Code skills directory:
