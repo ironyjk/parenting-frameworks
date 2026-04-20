@@ -317,6 +317,23 @@ For a detailed comparison of all 16 frameworks -- when to use each, compatibilit
 
 ---
 
+## Attribution & Trademarks
+
+This project implements well-known parenting and education frameworks for educational purposes. The following trademarks are acknowledged:
+
+- **Triple P®** (Positive Parenting Program) is a registered program of The University of Queensland / Triple P International Pty Ltd.
+- **Parent Effectiveness Training® (P.E.T.)** is a registered program of Gordon Training International.
+- **Collaborative & Proactive Solutions® (CPS)** is a registered approach developed by Dr. Ross Greene and Lives in the Balance (livesinthebalance.org).
+- **Understanding by Design® (UbD)** is a registered trademark of the Association for Supervision and Curriculum Development (ASCD). Based on the work of Grant Wiggins & Jay McTighe.
+- **Circle of Security®** is a registered program of Circle of Security International LLC.
+- **Gold Standard PBL™** and the 7 Essential Design Elements are defined by PBLWorks (formerly Buck Institute for Education, pblworks.org).
+- **Universal Design for Learning (UDL)** guidelines are developed by CAST (cast.org) and published under Creative Commons Attribution license.
+- **Positive Discipline®** concepts developed by Jane Nelsen (positivediscipline.com).
+
+All other framework names reference published academic works and are used descriptively.
+
+This project is not affiliated with, endorsed by, or sponsored by any of the above trademark holders.
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
